@@ -1,0 +1,24 @@
+.band-info {
+    margin-top: 10%;
+}
+
+.song-info {
+    margin: 2%;
+}
+
+.lyrics {
+    text-align: center;
+}
+
+.loading-icon {
+    margin-top: 2%;
+    margin-left: 50%;
+}
+
+.modal-close-button {
+    margin-left: 49%;
+}
+
+input {
+    margin-left: 2%;
+}
